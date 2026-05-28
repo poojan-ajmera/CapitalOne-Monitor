@@ -1,0 +1,4 @@
+acquisition_phase,quarter_count,avg_revenue_m,avg_net_income_m,avg_net_income_margin_pct,avg_credit_card_loans_m,avg_net_charge_off_rate_pct,avg_delinquency_30_plus_pct,avg_efficiency_ratio_pct,avg_provision_to_revenue_pct,avg_discover_cost_to_revenue_pct
+Pre-Discover,9,9544.33,1226.78,12.85,151181.44,3.08,3.65,55.48,28.61,0.38
+Transition,1,12492.0,-4277.0,-34.24,269709.0,3.24,3.32,55.96,91.5,5.12
+Post-Discover,3,15391.0,2500.0,16.25,273721.67,3.35,3.44,56.44,23.65,5.94
